@@ -1,5 +1,5 @@
 # Python_for_Data_Science_0_Starting
-Day 1: Starting
+
 Exercise 00
 Exploring basic data objects
 

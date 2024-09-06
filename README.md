@@ -48,7 +48,7 @@ Make a program that takes a string as an argument and encodes it into Morse Code
 
 You must use a dictionary to store your morse code.
 
-# The evaluation errors have been fixed except for the EOF, which I have decided to leave as PASS.
+# The evaluation errors have been fixed except for the EOF of ex05, which I have decided to leave as PASS.
 
 
 <p align="left">

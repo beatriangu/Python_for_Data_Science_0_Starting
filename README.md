@@ -47,6 +47,10 @@ Make a program that takes a string as an argument and encodes it into Morse Code
 • A space character is represented by a slash /
 
 You must use a dictionary to store your morse code.
+
+# The evaluation errors have been fixed except for the EOF, which I have decided to leave as PASS.
+
+
 <p align="left">
   <img src="https://github.com/beatriangu/Python_for_Data_Science_0_Starting/blob/main/Screenshot%20from%202024-09-06%2017-40-44.png?raw=true" alt="Miniatura" width="200"/>
 </p>
